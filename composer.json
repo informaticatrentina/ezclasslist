@@ -1,0 +1,24 @@
+{
+    "name": "informaticatrentina/ezclasslist",
+    "version": "1.0",
+    "description": "ezClassList (COPY)",
+    "type": "ezpublish-legacy-extension",
+    "authors": [
+        {
+            "name": "Informatica Trentina SpA",
+            "homepage": "http://www.infotn.it"
+        },
+        {
+            "name": "Damien Pobel",
+            "homepage": "http://damien.pobel.fr/"
+        }
+    ],
+    "license": "GPL-2.0",
+    "minimum-stability": "stable",
+    "require": {
+		"ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "ezclasslist"
+    }
+}
